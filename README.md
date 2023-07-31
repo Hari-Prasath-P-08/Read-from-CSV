@@ -31,6 +31,6 @@ print("Columns", len(df.axes[1]))
 ![output](/Screenshot%202023-07-31%20093105.png)
 
 (CSV file):
-![csv](/Screenshot%202023-07-31%20094057.png)
+![csv](/Screenshot%202023-07-31%20094631.png)
 ## RESULT:
 Thus the program is written to read a csv file.
